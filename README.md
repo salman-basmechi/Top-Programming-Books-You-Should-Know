@@ -1,5 +1,6 @@
 # Top Books Every Programmer Should Know
 Top Programming Books You Should Know
+Remember that the order of reading these has nothing to do with its number‍!
 
 ## 1. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 
@@ -36,3 +37,9 @@ Top Programming Books You Should Know
 ## 17. [Working Effectively with Unit Tests](https://www.amazon.com/Working-Effectively-Unit-Tests-Fields/dp/B00QS2HXUO)
 
 ## 18. [Soft Skills: The Software Developer's Life Manual 1st Edition](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/9351197646)
+
+## 19. [Framework Design Guidelines: Conventions, Idioms, and Patterns for Reuseable .NET Libraries](https://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613)
+
+## 20. [Patterns, Principles, and Practices of Domain-Driven Design](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
+
+## 21. [Agile Principles, Patterns, and Practices in C#](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
