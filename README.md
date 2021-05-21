@@ -1,5 +1,4 @@
 # Top Books Every Programmer Should Know
-Top Programming Books You Should Know
 Remember that the order of reading these has nothing to do with its number‍!
 
 ## 1. [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
